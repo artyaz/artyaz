@@ -23,4 +23,4 @@ Although I am still in the early stages of my career, I am always on the lookout
 
 ## Contact
 
-Please don't hesitate to reach out to me at [insert email address] if you're interested in getting in touch or just want to chat about software development.
+Please don't hesitate to reach out to me at b.artem.ch@gmail.com if you're interested in getting in touch or just want to chat about software development.
