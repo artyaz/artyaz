@@ -7,6 +7,7 @@ backend / integrations engineer. i make systems talk to each other when their ap
 ### what i actually do
 
 i build integrations between systems that were each designed as if no other system would ever exist. two apis, both certain they're the source of truth, both wrong, and the job is to get them to agree on what a user is without either one finding out the other disagreed. work starts when data begins violating every assumption documentation ever made about it
+
 so i live in the layer nobody puts on a landing page — retries, timeouts, concurrency, observability, caching, idempotency and dedup
 
 ### stack
