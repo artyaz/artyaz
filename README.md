@@ -32,8 +32,8 @@ a short tour
 **the swift student arc (2023, fond memories)**
 | repo | what | lang |
 |---|---|---|
-| [LearnGenie](https://github.com/artyaz/LearnGenie) | courses from generative ai, before it was cool/oversaturated | swift |
-| [Cards](https://github.com/artyaz/Cards) | flashcards for prepping for anything | swift |
+| [LearnGenie](https://github.com/artyaz/LearnGenie) | courses from generative ai, before it was mainstreem | swift |
+| [Cards](https://github.com/artyaz/Cards) | flashcards for prepping for stuff | swift |
 | [PhotoVault](https://github.com/artyaz/PhotoVault) · [SwiftEasyAnimation](https://github.com/artyaz/SwiftEasyAnimation) | learning ios the honest way | swift |
 | [Cygnus](https://github.com/artyaz/Cygnus) · [SkillHub](https://github.com/artyaz/SkillHub) · [QuizGrader](https://github.com/artyaz/QuizGrader) | c# / java / python detours | mixed |
 
