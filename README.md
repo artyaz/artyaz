@@ -1,26 +1,46 @@
-# Artem Chmylenko
+# artem
 
-## About Me
+backend / integrations engineer. i make systems talk to each other when their apis would rather not.
 
-I am a highly motivated software engineering student who is passionate about building creative and innovative software solutions. I am constantly seeking new challenges to develop my skills and expand my knowledge. My flexible mindset and ability to quickly adapt makes me ready to take on new projects and roles as a junior developer.
+---
 
-## Skills
+### what i actually do
 
-I am a versatile developer with skills in several programming languages, including Swift, C#, and Java. My core competencies include:
+i build integrations between systems that were each designed as if no other system would ever exist. two apis, both certain they're the source of truth, both wrong, and the job is to get them to agree on what a user is without either one finding out the other disagreed. work starts when data begins violating every assumption documentation ever made about it
+so i live in the layer nobody puts on a landing page — retries, timeouts, concurrency, observability, caching, idempotency and dedup
 
-- Mobile app development
-- Desktop app development
-- Software design
-- Agile development methodologies
+### stack
 
-## Growth Mindset
+`php` `typescript` `python` · `swift` (former life) · rest apis, cloud run, llm apis
 
-As a junior developer, I am aware that there is always more to learn in the field of software engineering. I have a growth mindset that drives me to keep learning and growing professionally. I am committed to staying up-to-date with the latest technologies, coding practices, and development methodologies. Additionally, I am always ready to take on feedback and grow from it.
+---
 
-## Opportunities
+### repo map
 
-Although I am still in the early stages of my career, I am always on the lookout for new opportunities to learn, collaborate and work on diverse projects. Feel free to reach out to me if you're interested in working together or if you have any questions about my skills and abilities.
+a short tour
 
-## Contact
+**now — ai tooling, agents, oss**
+| repo | what | lang |
+|---|---|---|
+| [posthog](https://github.com/artyaz/posthog) | fork. sometimes fixing stuff from issues | python |
+| [exigo](https://github.com/artyaz/exigo) | learning platform. reactive exercise vm, typed observation streams. over-engineered | typescript |
+| [wapo](https://github.com/artyaz/wapo) | a macos ai co-worker | python |
+| [nanobot_cr](https://github.com/artyaz/nanobot_cr) | fork. nanobot + codex rotation | python |
+| [speechless](https://github.com/artyaz/speechless) | english speach training with detailed speech analysis | typescript |
 
-Please don't hesitate to reach out to me at b.artem.ch@gmail.com if you're interested in getting in touch or just want to chat about software development.
+
+**the swift student arc (2023, fond memories)**
+| repo | what | lang |
+|---|---|---|
+| [LearnGenie](https://github.com/artyaz/LearnGenie) | courses from generative ai, before it was cool/oversaturated | swift |
+| [Cards](https://github.com/artyaz/Cards) | flashcards for prepping for anything | swift |
+| [PhotoVault](https://github.com/artyaz/PhotoVault) · [SwiftEasyAnimation](https://github.com/artyaz/SwiftEasyAnimation) | learning ios the honest way | swift |
+| [Cygnus](https://github.com/artyaz/Cygnus) · [SkillHub](https://github.com/artyaz/SkillHub) · [QuizGrader](https://github.com/artyaz/QuizGrader) | c# / java / python detours | mixed |
+
+everything else is scaffolding, experiments, or forks i'm mid-surgery on.
+
+---
+
+reach me @ `artem@chmyl.com` 
+
+<img src="https://github-readme-stats.vercel.app/api?username=artyaz&show_icons=true&hide_border=true&count_private=true" alt="stats" />
