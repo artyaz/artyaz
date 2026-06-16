@@ -42,5 +42,3 @@ everything else is scaffolding, experiments, or forks i'm mid-surgery on.
 ---
 
 reach me @ `artem@chmyl.com` 
-
-<img src="https://github-readme-stats.vercel.app/api?username=artyaz&show_icons=true&hide_border=true&count_private=true" alt="stats" />
